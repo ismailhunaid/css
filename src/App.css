@@ -1,0 +1,51 @@
+.App {
+  background-color: aqua;
+  margin: 25px;
+  border: 10px solid red;
+  height: 500px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  
+  
+  
+}
+.App h1{
+  
+  background-color: cornflowerblue;
+
+  border: 10px solid gray;
+  text-align:center;
+  margin: auto;
+  
+
+}
+h1{
+  text-align: center;
+}
+.App h2{
+  
+  background-color: cornflowerblue;
+  height: 150px;
+  width: 500px;
+  border: 10px solid gray;
+  
+
+}
+
+ /* .App h2{
+  font-size: 50px;
+  background-color:teal;
+  height: 150px;
+  width: 500px;
+  text-align: center ;
+  margin-left: 600px;
+  justify-content: center;
+  align-items: center;
+  vertical-align: middle;
+
+  
+} */
